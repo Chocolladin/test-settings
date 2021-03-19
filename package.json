@@ -1,0 +1,23 @@
+{
+  "name": "@back4app/back4app-settings",
+  "version": "1.1.1",
+  "description": "back{4}app backend-as-a-service common settings",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/back4app/back4app-settings.git"
+  },
+  "author": "BACK4APP SERVICOS DIGITAIS LTDA",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/back4app/back4app-settings/issues"
+  },
+  "homepage": "https://github.com/back4app/back4app-settings#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "nconf": "^0.10.0"
+  }
+}

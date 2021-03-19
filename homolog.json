@@ -1,0 +1,15 @@
+{
+  "BACK4APP_API_PATH": "https://dashboard-homolog.back4app.com",
+  "BACK4APP_APIDOCS_PATH": "https://static-homolog.back4app.com/apidocs",
+  "BACK4APP_DOCS_PATH": "https://homolog.back4app.com/docs",
+  "BACK4APP_NAVIGATION_PATH": "https://static-homolog.back4app.com",
+  "BACK4APP_OLD_DOCS_PATH": "https://docs.back4app.com",
+  "BACK4APP_SITE_PATH": "https://homolog.back4app.com",
+  "DASHBOARD_PATH": "https://dashboard-homolog.back4app.com",
+  "MDD_PATH": "https://dashboard-homolog.back4app.com/classic#",
+  "PARSE_API_PROXY_URL": "https://dashboard-homolog.back4app.com/parseapi",
+  "PARSE_API_URL": "https://parseapi-homolog.back4app.com",
+  "PARSE_DASHBOARD_PATH": "https://parse-dashboard-homolog.back4app.com",
+  "ADMIN_DOMAIN": ".admin-homolog.back4app.com",
+  "GRAPHQL_API_URL": "https://parseapi-homolog.back4app.com/graphql"
+}

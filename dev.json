@@ -1,0 +1,15 @@
+{
+  "BACK4APP_API_PATH": "http://localhost:4000",
+  "BACK4APP_APIDOCS_PATH": "http://localhost:4567/apidocs",
+  "BACK4APP_DOCS_PATH": "http://localhost:3001",
+  "BACK4APP_NAVIGATION_PATH": "http://localhost:9000",
+  "BACK4APP_OLD_DOCS_PATH": "http://docs.back4app.com",
+  "BACK4APP_SITE_PATH": "http://localhost:3000",
+  "DASHBOARD_PATH": "http://localhost:8080",
+  "MDD_PATH": "http://localhost:4000/classic#",
+  "PARSE_API_PROXY_URL": "http://localhost:4000/parseapi",
+  "PARSE_API_URL": "http://localhost:5000",
+  "PARSE_DASHBOARD_PATH": "http://localhost:4040",
+  "ADMIN_DOMAIN": ".admin-homolog.back4app.com",
+  "GRAPHQL_API_URL": "http://localhost:5000/graphql"
+}
