@@ -8,6 +8,4 @@ nconf.file(path.join(__dirname, env + '.json'));
 var settings = nconf.get();
 debug(settings);
 
-console.log(settings);
-
 module.exports = settings;
